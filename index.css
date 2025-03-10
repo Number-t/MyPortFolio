@@ -51,8 +51,8 @@ header{
   }
   .紹介文1{
     position: relative;
-    left: 250px;
-    top: 170px;
+    left: 130px;
+    top: 140px;
     font-size: 30px;
   }
   .動画1{
@@ -67,8 +67,8 @@ header{
   .紹介文2{
     position: relative;
     left: 250px;
-    top: 70px;
-    font-size: 30px;
+    top: 20px;
+    font-size: 25px;
   }
   footer{
     background-color: #333333;
