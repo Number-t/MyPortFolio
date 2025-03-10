@@ -29,7 +29,8 @@ header{
   .内容1 {
     position: relative;
     left: 350px;
-    top: 50px;
+    top: 0px;
+    font-size: 20px;
   }
   .box{
     display: inline-block;
@@ -69,6 +70,9 @@ header{
     left: 250px;
     top: 20px;
     font-size: 25px;
+  }
+  .Portfolio{
+    font-size: 30px;
   }
   footer{
     background-color: #333333;
