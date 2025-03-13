@@ -1,3 +1,6 @@
+body {
+  margin: 0;
+}
 header{
     background-color: #333333;
     display: flex;
@@ -16,6 +19,19 @@ header{
     font-size: 20px;
     text-decoration: none;
   }
+  .top{
+    font-size: 30px;
+    background-image: url(背景.jpeg);
+    background-size: cover;
+    padding:  0;
+  }
+  .Introduction{
+    background-color: #F6F6F6;
+      padding: 100px;
+  }
+  h2{
+    margin: 0;
+  }
   .内容 img{
     width: 400px;
     height: 500px;
@@ -32,11 +48,26 @@ header{
     top: 0px;
     font-size: 20px;
   }
+  .title1{
+    font-size: 30px;
+  }
+  .title2{
+    font-size: 30px;
+  }
+  .Skills{
+    background-color: #7BC3D1;
+    padding: 100px;
+  }
   .box{
     display: inline-block;
       padding: 20px;
       margin: 20px;
       width: 15%;
+      font-size: 30px;
+  }
+  .Portfolio{
+    background-color: #F6F6F6;
+    padding: 100px;
   }
   .Portfolio video{
     width: 400px;
@@ -73,6 +104,11 @@ header{
   }
   .Portfolio{
     font-size: 30px;
+  }
+  .来年度への抱負{
+    position: relative;
+    left: -20px;
+    top: 60px;
   }
   footer{
     background-color: #333333;
