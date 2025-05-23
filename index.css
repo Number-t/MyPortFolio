@@ -83,9 +83,9 @@ header{
   }
   .紹介文1{
     position: relative;
-    left: 130px;
-    top: 50px;
-    font-size: 30px;
+    left: 210px;
+    top: 0px;
+    font-size: 25px;
   }
   .動画1{
     font-size: 30px;
@@ -100,15 +100,10 @@ header{
     position: relative;
     left: 250px;
     top: -20px;
-    font-size: 25px;
+    font-size: 24px;
   }
   .Portfolio{
     font-size: 30px;
-  }
-  .来年度への抱負{
-    position: relative;
-    left: -20px;
-    top: 60px;
   }
   footer{
     background-color: #333333;
